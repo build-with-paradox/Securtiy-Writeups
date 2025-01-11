@@ -30,7 +30,7 @@ I’ve also worked on various challenges from HackTheBox, where I’ve tackled m
 
 Currently, I have one detailed write-up available in PDF format. This report walks through a CTF challenge I solved, demonstrating my process and approach to solving real-world cybersecurity problems.
 
-- [**CTF Writeup: Challenge 1**](./CTF_Report_Challenge_1.pdf) - A complete walkthrough of a cybersecurity challenge I've solved.
+- [**CTF Writeup: Try Hack Me (Hack Smarter Security)**](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Hack_Smarter_Security.pdf) - A complete walkthrough of a cybersecurity challenge I've solved.
 
 ## 🚀 Getting Started
 
