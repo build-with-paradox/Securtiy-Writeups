@@ -34,8 +34,9 @@ Currently, I have one detailed write-up available in PDF format. This report wal
 
 
 ## ✨ Additional Write-ups
-For more detailed write-ups and walkthroughs, feel free to check out my Medium Profile where I regularly publish cybersecurity articles and solutions.
+For more detailed write-ups and walkthroughs, feel free to check out my Medium Profile where I publish cybersecurity articles and solutions.
 
+[Medium]( https://medium.com/@bhatt.prashant2018)
 
 ## 🚀 Getting Started
 
