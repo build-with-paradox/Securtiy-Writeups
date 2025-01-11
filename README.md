@@ -32,6 +32,11 @@ Currently, I have one detailed write-up available in PDF format. This report wal
 
 - [**CTF Writeup: Try Hack Me (Hack Smarter Security)**](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Hack_Smarter_Security.pdf) - A complete walkthrough of a cybersecurity challenge I've solved.
 
+
+## ✨ Additional Write-ups
+For more detailed write-ups and walkthroughs, feel free to check out my Medium Profile where I regularly publish cybersecurity articles and solutions.
+
+
 ## 🚀 Getting Started
 
 Clone this repository to explore my write-ups, challenges, and solutions:
