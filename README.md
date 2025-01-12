@@ -1,46 +1,45 @@
-# CTF Writeups 📝💻
+# CTF Writeups  
 
-Welcome to my **Capture the Flag (CTF) Write-ups** repository! This collection contains detailed solutions and write-ups for various cybersecurity challenges I’ve solved from platforms like TryHackMe and Hack The Box. It showcases my skills in penetration testing, web application security, and problem-solving techniques.
+Welcome to my **Capture the Flag (CTF) Write-ups** repository! This collection contains solutions and write-ups for various cybersecurity challenges I’ve solved on platforms like **TryHackMe** and **Hack The Box**. These challenges showcase my expertise in penetration testing, web application security, and practical problem-solving.  
 
-## 💡 Overview
+## 💡 Overview  
 
-This repository contains write-ups for various CTF challenges that I've solved. These challenges cover a wide range of topics such as:
- 
-- Linux Privilege Escalation 🐧
-- Windows Privilege Escalation 🪟
-- Network Security 🌐
-- Web Application Security 🔒
-- Cryptography 🔑
-- Forensics 🔍
-- Reverse Engineering 🧩
+While this repository currently contains limited write-ups, it highlights my approach and techniques for solving real-world cybersecurity challenges. My experience spans topics such as:  
 
-## 🏆 Challenges
+- **Linux Privilege Escalation**  
+- **Windows Privilege Escalation**  
+- **Network Security**  
+- **Web Application Security**  
+- **Cryptography**  
+- **Forensics**  
+- **Reverse Engineering**  
 
-### TryHackMe 🧑‍💻
-I have solved several challenges on TryHackMe, ranging from beginner to advanced topics in penetration testing and cybersecurity. Check out my TryHackMe profile to see my progress:
+## 🏆 Challenges  
 
-[**TryHackMe Profile**](https://tryhackme.com/r/p/Dr.Parad0x) (Rank Top 7%)
+### **TryHackMe**  
+I have completed over **30+ challenges** on TryHackMe, ranging from beginner to advanced levels. You can explore my progress and expertise on my profile:  
+[**TryHackMe Profile**](https://tryhackme.com/r/p/Dr.Parad0x) *(Rank: Top 7%)*  
 
-### HackTheBox 👾
-I’ve also worked on various challenges from HackTheBox, where I’ve tackled more advanced scenarios and real-world hacking simulations. Although I am not as active on HTB at the moment, you can check my profile for my current progress:
+### **HackTheBox**  
+I’ve solved multiple challenges on HackTheBox, focusing on advanced scenarios and real-world penetration testing techniques. You can view my progress here:  
+[**Hack The Box Profile**](https://app.hackthebox.com/profile/727807) *(Rank: 864)*  
 
-[**Hack The Box Profile**](https://app.hackthebox.com/profile/727807) (Rank: 864)
+## 📄 Write-ups  
 
-## 📄 Report
+Currently, this repository contains a detailed write-up for one challenge:  
 
-Currently, I have one detailed write-up available in PDF format. This report walks through a CTF challenge I solved, demonstrating my process and approach to solving real-world cybersecurity problems.
+- [**CTF Writeup: Try Hack Me (Hack Smarter Security)**](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Hack_Smarter_Security.pdf)  
+  This report walks through the process of solving a cybersecurity challenge, demonstrating tools and techniques used.  
 
-- [**CTF Writeup: Try Hack Me (Hack Smarter Security)**](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Hack_Smarter_Security.pdf) - A complete walkthrough of a cybersecurity challenge I've solved.
+### ✨ Additional Write-ups  
+I’ve published four detailed walkthroughs and articles on my **Medium Profile**, covering various cybersecurity challenges:  
+[**Medium Profile**](https://medium.com/@bhatt.prashant2018)  
 
+Note: Not all of the 30+ challenges I’ve solved on TryHackMe are currently documented in this repository or on Medium. More write-ups will be added over time.  
 
-## ✨ Additional Write-ups
-For more detailed write-ups and walkthroughs, feel free to check out my Medium Profile where I publish cybersecurity articles and solutions.
+## 🚀 Getting Started  
 
-[Medium]( https://medium.com/@bhatt.prashant2018)
-
-## 🚀 Getting Started
-
-Clone this repository to explore my write-ups, challenges, and solutions:
+Clone this repository to explore the available write-ups and reports:  
 
 ```bash
 git clone https://github.com/Prashant-Bhatt-2000/CTF-Writeups.git
