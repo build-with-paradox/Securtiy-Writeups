@@ -28,13 +28,14 @@ I’ve solved multiple challenges (starting point) on HackTheBox, focusing on ad
 
 ## 📄 Write-ups
 
-Currently, this repository contains a detailed write-up for one challenge:
+Currently, this repository contains a detailed write-up for 2 challenges:
 
 - **CTF Writeup: Try Hack Me (Hack Smarter Security)**  
   This report walks through the process of solving a cybersecurity challenge, demonstrating tools and techniques used.
 
 You can view the write-up here:  
 [**CTF Writeup: Try Hack Me (Hack Smarter Security)**](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Hack_Smarter_Security.pdf)
+[**CTF Writeup: Try Hack Me (Internal)**](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Internal%20(Penetration%20Testing).pdf)
 
 ## ✨ Additional Write-ups
 
