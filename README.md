@@ -21,7 +21,7 @@ I have completed over **30+ challenges** on TryHackMe, ranging from beginner to 
 [**TryHackMe Profile**](https://tryhackme.com/r/p/Dr.Parad0x) *(Rank: Top 7%)*  
 
 ### **HackTheBox**  
-I’ve solved multiple challenges on HackTheBox, focusing on advanced scenarios and real-world penetration testing techniques. You can view my progress here:  
+I’ve solved multiple **(starting point)** challenges on HackTheBox, focusing on advanced scenarios and real-world penetration testing techniques. You can view my progress here:  
 [**Hack The Box Profile**](https://app.hackthebox.com/profile/727807) *(Rank: 864)*  
 
 ## 📄 Write-ups  
