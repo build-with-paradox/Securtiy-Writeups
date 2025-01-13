@@ -4,7 +4,7 @@ Welcome to my **Capture the Flag (CTF) Write-ups** repository! This collection c
 
 ## 💡 Overview
 
-While this repository currently contains limited write-ups, it highlights my approach and techniques for solving real-world cybersecurity challenges. My experience spans topics such as:
+This repository features detailed write-ups of select challenges I've solved, with more to come as I continue my cybersecurity journey. My experience spans topics such as:
 
 - Linux Privilege Escalation
 - Windows Privilege Escalation
@@ -17,33 +17,27 @@ While this repository currently contains limited write-ups, it highlights my app
 ## 🏆 Challenges
 
 ### TryHackMe
-I have completed over **30+ challenges** on TryHackMe, ranging from beginner to advanced levels. You can explore my progress and expertise on my profile:
+I have completed over **50+ challenges** on TryHackMe and HackTheBox combined, ranging from beginner to advanced levels. You can explore my progress and expertise on my profile:
 
-[**TryHackMe Profile (Rank: Top 7%)**](https://tryhackme.com/r/p/Dr.Parad0x)
+[TryHackMe Profile (Rank: Top 7%)](https://tryhackme.com/r/p/Dr.Parad0x)
 
 ### HackTheBox
 I’ve solved multiple challenges (starting point) on HackTheBox, focusing on advanced scenarios and real-world penetration testing techniques. You can view my progress here:
 
-[**Hack The Box Profile (Rank: 864)**](https://app.hackthebox.com/profile/727807)
+[Hack The Box Profile (Rank: 864)](https://app.hackthebox.com/profile/727807)
 
-## 📄 Write-ups
+## 📄 Detailed Write-ups
 
-Currently, this repository contains a detailed write-up for 2 challenges:
+This repository contains detailed walkthroughs for various challenges. Currently, the following write-ups are available:
 
-- **CTF Writeup: Try Hack Me (Hack Smarter Security)**  
-  This report walks through the process of solving a cybersecurity challenge, demonstrating tools and techniques used.
-
-You can view the write-ups here: 
-
-1. [**CTF Writeup: Try Hack Me (Hack Smarter Security)**](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Hack_Smarter_Security.pdf)
-
-2. [**CTF Writeup: Try Hack Me (Internal)**](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Internal%20(Penetration%20Testing).pdf)
+1. [CTF Writeup: Try Hack Me (Hack Smarter Security)](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Hack_Smarter_Security.pdf)
+2. [CTF Writeup: Try Hack Me (Internal)](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Internal%20(Penetration%20Testing).pdf)
 
 ## ✨ Additional Write-ups
 
 I’ve published **four detailed walkthroughs and articles** on my Medium Profile, covering various cybersecurity challenges. You can check them out here:
 
-[**Medium Profile**](https://medium.com/@prashantbhatt.2000)
+[Medium Profile](https://medium.com/@prashantbhatt.2000)
 
 **Note:** Not all of the 30+ challenges I’ve solved on TryHackMe are currently documented in this repository or on Medium. More write-ups will be added over time.
 
