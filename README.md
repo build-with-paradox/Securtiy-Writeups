@@ -39,7 +39,7 @@ I’ve published **four detailed walkthroughs and articles** on my Medium Profil
 
 [Medium Profile](https://medium.com/@prashantbhatt.2000)
 
-**Note:** Not all of the 30+ challenges I’ve solved on TryHackMe are currently documented in this repository or on Medium. More write-ups will be added over time.
+**Note:** Not all of the 50+ challenges I’ve solved on TryHackMe are currently documented in this repository or on Medium. More write-ups will be added over time.
 
 ## 🚀 Getting Started
 
