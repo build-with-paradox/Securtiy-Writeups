@@ -6,9 +6,9 @@ Welcome to the **Windows Privilege Escalation** folder. Below are various challe
 
 1. **Hack Smarter Security Challenge**  
    🔑 Techniques Covered:  
-   - Enumeration of user privileges  
-   - Exploiting weak file permissions  
-   - Misconfigured services leading to privilege escalation  
+   - Exploiting CVE-2020–5377 (Dell EMC OpenManager version 9.4.0.2) 
+   - Binary Replacement (spoofer.exe to nim reverse_shell)
+   - Created new user with administrator access.
 
    📄 [Hack Smarter Write-Up (PDF)](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Hack_Smarter_Security.pdf)
 
