@@ -16,7 +16,6 @@ Welcome to the **Linux Privilege Escalation** folder. Below are various challeng
    
    📄 [Mr. Robot Write-Up (PDF)](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Mr_Robot_Ctf.pdf)
 
----
 
 ## 📚 **Learning Resources**
 - [GTFOBins - A Practical Resource for PrivEsc](https://gtfobins.github.io/)
