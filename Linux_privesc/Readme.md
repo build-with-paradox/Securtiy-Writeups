@@ -6,8 +6,6 @@ Welcome to the **Linux Privilege Escalation** folder. Below are various challeng
 
 ## 📄 **Available Write-Ups**
 
----
-
 ### 1. **Mr. Robot Challenge**  
    🔑 **Techniques Covered**:
    - Scanning & Enumeration
@@ -17,8 +15,6 @@ Welcome to the **Linux Privilege Escalation** folder. Below are various challeng
    - Gaining Root Access via Nmap SUID Exploit
    
    📄 [Mr. Robot Write-Up (PDF)](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Mr_Robot_Ctf.pdf)
-
----
 
 ---
 
