@@ -32,6 +32,7 @@ This repository contains detailed walkthroughs for various challenges. Currently
 
 1. [CTF Writeup: Try Hack Me (Hack Smarter Security)](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Hack_Smarter_Security.pdf)
 2. [CTF Writeup: Try Hack Me (Internal)](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Internal%20(Penetration%20Testing).pdf)
+3. [CTF Writeup: Try Hack Me (Mr. Robot)](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme%2FMr_Robot_Ctf.pdf) 
 
 ## ✨ Additional Write-ups
 
