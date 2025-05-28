@@ -30,9 +30,9 @@ I’ve solved multiple challenges (starting point) on HackTheBox, focusing on ad
 
 This repository contains detailed walkthroughs for various challenges. Currently, the following write-ups are available:
 
-1. [CTF Writeup: Try Hack Me (Hack Smarter Security)](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Hack_Smarter_Security.pdf)
-2. [CTF Writeup: Try Hack Me (Internal)](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme/Internal%20(Penetration%20Testing).pdf)
-3. [CTF Writeup: Try Hack Me (Mr. Robot)](https://github.com/Prashant-Bhatt-2000/CTF-Writeups/blob/main/tryhackme%2FMr_Robot_Ctf.pdf) 
+1. [CTF Writeup: Try Hack Me (Hack Smarter Security)](https://github.com/build-with-paradox/Securtiy-Writeups/blob/main/tryhackme/Hack_Smarter_Security.pdf)
+2. [CTF Writeup: Try Hack Me (Internal)](https://github.com/build-with-paradox/Securtiy-Writeups/blob/main/tryhackme/Internal%20(Penetration%20Testing).pdf)
+3. [CTF Writeup: Try Hack Me (Mr. Robot)](https://github.com/build-with-paradox/Securtiy-Writeups/blob/main/tryhackme/Mr_Robot_Ctf.pdf) 
 
 ## ✨ Additional Write-ups
 
